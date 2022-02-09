@@ -1,0 +1,9 @@
+Exercise 2
+
+1. In simple terms, and a few sentences at most, what’s a design pattern?
+  a. When should you use one?
+  b. When shouldn’t you?
+2. Write a small program that build a pizza with various toppings using the builder pattern. 
+   Why is this a good idea? Think about scalability for instance
+3. Find an original idea to implement a decorator pattern (not the one from the website). 
+   Can you think of any limitations? No need to code here.
