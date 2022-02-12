@@ -2,11 +2,28 @@ Exercise 1
 
 1. What is clean code? What is the role played by refactoring one’s code?
 
+Refactoring makes it possible to transform a sales code into clean code.
+Clean code should be easily understood. It must be able to be read and improved by a developer other than the person who wrote it. 
+With understandability comes readability, ease of change, extensibility and maintainability.
+The main rules of clean code:
+- Contains no duplication
+- Contains a minimal number of classes and other moving parts
+- Pass all the tests
+
 
 2. Do you think you can “over-refactor” and do too much? How?
 
 
+
+
 3. What is a code smell? Why should you bother?
+
+Code smell indicates poor fundamental design principles that diminish the overall quality of the code, usually indicates a deeper problem.
+They are not bugs or errors in the sense that they are not officially bad code and do not prevent the implementation of the program, although code smell can certainly increase the risk of bugs and failures in the code. 
+And prevent its execution.
+
+Using code smell detection tools and subjecting code to short, controlled refactoring sessions, you can go beyond the initial impact of code smell and uncover the problem deeper within the software. 
+Code smell can often be key to discovering when to refactor and what refactoring techniques to use.
 
 
 4. Can you identify a few code smells in the original GuildedRose?
