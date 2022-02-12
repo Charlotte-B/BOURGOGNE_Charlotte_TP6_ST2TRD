@@ -1,9 +1,36 @@
 Exercise 2
 
 1. In simple terms, and a few sentences at most, what’s a design pattern?
+
+A design pattern is a general, repeatable solution to a common problem in software design. 
+A design pattern is not a finished design that can be turned directly into code. 
+It's a description or model for solving a problem that can be used in many different situations.
+
   a. When should you use one?
+  
+  When the code is not optimal and it may block over time, for code smell.
+  Design patterns are not intended to be applied literally. 
+  A design template is not a finished design that you copy and paste. 
+  They should consider them as a guideline.
+  
   b. When shouldn’t you?
+  
+  The idea of a design pattern is an attempt to standardize already accepted best practices. 
+  In principle, this may seem beneficial, but in practice it often leads to unnecessary code duplication. 
+  It's almost always a more efficient solution to use a well-factored implementation rather than a design pattern that doesn't solve the problem.
+  Usually when the code is correctly and sufficiently refactored.
+  
+  
 2. Write a small program that build a pizza with various toppings using the builder pattern. 
    Why is this a good idea? Think about scalability for instance
+   
+In our case, the use of a bulder pattern is recommended. 
+A pizza can be made up of different toppings and be customizable by the customer.
+The pattern builder can therefore:
+- Allows you to vary the internal representation of a pizza.
+- Encapsulates code for construction and representation.
+- Allows you to control the stages of the construction process.
+   
+   
 3. Find an original idea to implement a decorator pattern (not the one from the website). 
    Can you think of any limitations? No need to code here.
