@@ -33,6 +33,14 @@ Code smell can often be key to discovering when to refactor and what refactoring
 
 4. Can you identify a few code smells in the original GuildedRose?
 
+We find as smell code:
+- Bloaters (constructs are too long)
+- Object-Orientation Abusers (Inappropriate Static)
+- Dispensables (Duplicate Code, Lazy Class, Data Class)
+- Change Preventers (Shotgun Surgery = we need to touch multiple parts of the code to make a behavior change)
+- Obfuscators (Poor Names, Inconsistency...)
+- No Test Smells
+
 
 5. What are some refactoring techniques you could have used in the GuildedRose?
 (image google tableau)
