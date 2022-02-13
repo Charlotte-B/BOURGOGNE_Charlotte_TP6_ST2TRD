@@ -1,0 +1,6 @@
+C:\Users\Charlotte\Documents\Efrei\Cours\M2\9ème semestre\Trading\TP6_V2\BOURGOGNE_Charlotte_TP6_ST2TRD\DesignPatternDecorator\obj\Debug\DesignPatternDecorator.csprojAssemblyReference.cache
+C:\Users\Charlotte\Documents\Efrei\Cours\M2\9ème semestre\Trading\TP6_V2\BOURGOGNE_Charlotte_TP6_ST2TRD\DesignPatternDecorator\obj\Debug\DesignPatternDecorator.csproj.CoreCompileInputs.cache
+C:\Users\Charlotte\Documents\Efrei\Cours\M2\9ème semestre\Trading\TP6_V2\BOURGOGNE_Charlotte_TP6_ST2TRD\DesignPatternDecorator\bin\Debug\DesignPatternDecorator.exe
+C:\Users\Charlotte\Documents\Efrei\Cours\M2\9ème semestre\Trading\TP6_V2\BOURGOGNE_Charlotte_TP6_ST2TRD\DesignPatternDecorator\bin\Debug\DesignPatternDecorator.pdb
+C:\Users\Charlotte\Documents\Efrei\Cours\M2\9ème semestre\Trading\TP6_V2\BOURGOGNE_Charlotte_TP6_ST2TRD\DesignPatternDecorator\obj\Debug\DesignPatternDecorator.exe
+C:\Users\Charlotte\Documents\Efrei\Cours\M2\9ème semestre\Trading\TP6_V2\BOURGOGNE_Charlotte_TP6_ST2TRD\DesignPatternDecorator\obj\Debug\DesignPatternDecorator.pdb
