@@ -35,6 +35,6 @@ The pattern builder can therefore:
 3. Find an original idea to implement a decorator pattern (not the one from the website). 
    Can you think of any limitations? No need to code here.
 
-Design patterns build on the foundation laid by a solid analysis of software development. 
+Decorator patterns build on the foundation laid by a solid analysis of software development. 
 You won't find a model that solves all the problems you encounter. 
 Some problems cannot be solved. Other problems may have a solution, but there are no known patterns to solve them yet.
