@@ -13,7 +13,12 @@ The main rules of clean code:
 
 2. Do you think you can “over-refactor” and do too much? How?
 
-
+I think it's possible to over-refactor a code. A code is almost never "too clean" and following the four elements of simple design shouldn't lead to over-engineering.
+We reach the over-refactoring of a code when the developer has used all the possible design patterns that meet the functionalities of the code.
+In some cases, over-refactoring is irrelevant. 
+When a code is clean enough, it is not necessarily useful to add design patterns. 
+Because by dint of over-refactoring a code, certain design patterns can slow down the solution and increase its costs.
+Each design decision must be considered individually. Only use a design pattern if its benefits outweigh its costs.
 
 
 3. What is a code smell? Why should you bother?
